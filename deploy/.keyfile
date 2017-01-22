@@ -1,0 +1,37 @@
+#Key File
+#Fri Jan 20 16:24:22 CST 2017
+sample.12345678.tpk.checkvalue=CA8585CE
+sample.12345678.tmk.length=64
+sample.88888888.tmk.class=org.jpos.security.SecureDESKey
+sample.10000001.tak.length=64
+sample.12345678.tmk.class=org.jpos.security.SecureDESKey
+sample.10000001.tpk.key=F11EE2B177DD1CCD
+sample.12345678.tpk.class=org.jpos.security.SecureDESKey
+sample.88888888.tmk.length=64
+sample.12345678.tak.class=org.jpos.security.SecureDESKey
+sample.10000001.tmk.class=org.jpos.security.SecureDESKey
+sample.10000001.tpk.class=org.jpos.security.SecureDESKey
+sample.10000001.tak.key=67232FB6594F9BD5
+sample.10000001.tak.class=org.jpos.security.SecureDESKey
+sample.10000001.tmk.type=TMK
+sample.12345678.tmk.key=6A84D8CF8AB841D8
+sample.12345678.tak.length=64
+sample.10000001.tak.checkvalue=047ADA9E
+sample.12345678.tak.checkvalue=35ADC500
+sample.12345678.tpk.type=TPK
+sample.12345678.tpk.length=64
+sample.12345678.tmk.checkvalue=8CA64DE9
+sample.10000001.tak.type=TAK
+sample.10000001.tpk.type=TPK
+sample.12345678.tmk.type=TMK
+sample.12345678.tpk.key=DEDF0741DB1DADC5
+sample.88888888.tmk.type=TMK
+sample.12345678.tak.key=50EEF4A1916CCA3A
+sample.10000001.tmk.key=1EBA4E3FDFF54B0C
+sample.88888888.tmk.key=1EBA4E3FDFF54B0C
+sample.10000001.tpk.length=64
+sample.88888888.tmk.checkvalue=4D672638
+sample.10000001.tmk.checkvalue=4D672638
+sample.10000001.tmk.length=64
+sample.12345678.tak.type=TAK
+sample.10000001.tpk.checkvalue=DB54627D

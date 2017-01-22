@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server class="org.jpos.q2.iso.QServer" logger="Q2" name="sample.posp">
+	<attr name="port" type="java.lang.Integer">1666</attr>
+	<attr name="maxSessions" type="java.lang.Integer">300</attr>
+	<channel class="org.jpos.ext.channel.HEXChannel" logger="Q2"
+	         packager="org.jpos.iso.packager.GenericPackager"
+	         header="6000050000603100311001">
+		<property name="override-header" value="true"/>
+		<property name="packager-config" value="cfg/packager/simple_posp.xml"/>
+		<property name="timeout" value="3600000"/>
+	</channel>
+
+	<request-listener class="org.jpos.ext.groovy.GroovyRequestListener" logger="Q2"/>
+</server>

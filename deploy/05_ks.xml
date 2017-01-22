@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<key-store name="keyStore" class="org.jpos.q2.security.KeyStoreAdaptor" logger="Q2">
+	<attr name="impl">org.jpos.security.SimpleKeyFile</attr>
+	<property name="key-file" value="deploy/.keyfile"/>
+</key-store>
